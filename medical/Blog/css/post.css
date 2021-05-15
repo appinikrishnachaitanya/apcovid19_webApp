@@ -1,0 +1,9 @@
+.card-body
+{
+	font-family: Times;
+	font-size: 1.0em;
+}
+
+button.btn {
+  margin-top: auto;
+}

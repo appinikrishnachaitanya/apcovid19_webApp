@@ -1,0 +1,42 @@
+.alert{
+	font-family: "Times New Roman", Times, serif;
+    
+ 
+}
+
+
+
+p{
+	font-size: 1.4em;
+}
+
+
+.card{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.0em;
+}
+
+.card1{
+	background-color: #fcdf8a;
+
+}
+.card2{
+	background-color: #13f1fc;
+}
+.card3{
+	background-color: #c3ec52;
+}
+.card4{
+	background-color: #F36265;
+}
+.card5{
+    background-color: #909dc7;
+}
+
+.card6{
+   background-color: #81e6c9;
+}
+
+.dailycard{
+	float:left;
+}

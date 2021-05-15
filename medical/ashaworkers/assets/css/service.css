@@ -1,0 +1,28 @@
+.alert
+{
+	font-family: Times;
+
+}
+
+
+
+
+
+
+.card-body
+{
+	
+	font-family: Times;
+	
+}
+
+
+
+
+.btn{
+-webkit-border-radius: 80px;
+-moz-border-radius: 80px;
+border-radius: 80px;
+margin:auto;
+}
+

@@ -1,0 +1,13 @@
+nav {
+	
+	font-size: 1.2em;
+	font-family:Times;
+    font-weight: bold;
+	
+
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid red;
+}
+
